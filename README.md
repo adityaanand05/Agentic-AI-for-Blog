@@ -1,1 +1,1 @@
-# AI-recommendation-system-using-PyTorch
+#Agentic-AI-for-Blog
